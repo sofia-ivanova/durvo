@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "durvo", "durvo\durvo.csproj", "{C5617039-32CA-4E1F-8309-6A9E635D6ECB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadacha2", "zadacha2\zadacha2.csproj", "{6E1E7206-9FFE-4ED9-BD11-214B26E8A9CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadacha3", "zadacha3\zadacha3.csproj", "{79985DF4-BD3A-4F74-955E-575365B22D68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C5617039-32CA-4E1F-8309-6A9E635D6ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5617039-32CA-4E1F-8309-6A9E635D6ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5617039-32CA-4E1F-8309-6A9E635D6ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E1E7206-9FFE-4ED9-BD11-214B26E8A9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1E7206-9FFE-4ED9-BD11-214B26E8A9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1E7206-9FFE-4ED9-BD11-214B26E8A9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1E7206-9FFE-4ED9-BD11-214B26E8A9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79985DF4-BD3A-4F74-955E-575365B22D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79985DF4-BD3A-4F74-955E-575365B22D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79985DF4-BD3A-4F74-955E-575365B22D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79985DF4-BD3A-4F74-955E-575365B22D68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

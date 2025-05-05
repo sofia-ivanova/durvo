@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace durvo
 {
-    internal class BinaryTree
+    internal class Tree
     {
         public Node Root;
-        public BinaryTree()
+        public Tree()
         {
             Root = null;
         }

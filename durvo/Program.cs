@@ -11,7 +11,7 @@ namespace durvo
     {
         static void Main(string[] args)
         {
-            BinaryTree tree = new BinaryTree();
+            Tree tree = new Tree();
             tree.Root = new Node(1);
             tree.Root.Left = new Node(2);
             tree.Root.Right = new Node(3);
