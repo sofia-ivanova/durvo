@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graf_zad1", "graf_zad1\graf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graf_zad2", "graf_zad2\graf_zad2.csproj", "{8BDA9C3E-FCDB-43BA-81E8-4514735166ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graph_zad3", "graph_zad3\graph_zad3.csproj", "{DABB8A9C-9A63-475C-8D15-D0F5F9DE5C9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8BDA9C3E-FCDB-43BA-81E8-4514735166ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BDA9C3E-FCDB-43BA-81E8-4514735166ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BDA9C3E-FCDB-43BA-81E8-4514735166ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABB8A9C-9A63-475C-8D15-D0F5F9DE5C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABB8A9C-9A63-475C-8D15-D0F5F9DE5C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABB8A9C-9A63-475C-8D15-D0F5F9DE5C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABB8A9C-9A63-475C-8D15-D0F5F9DE5C9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
