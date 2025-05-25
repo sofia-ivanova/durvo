@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graph_zad3", "graph_zad3\gr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graf_zad4", "graf_zad4\graf_zad4.csproj", "{F40D267E-295C-42E6-9230-7BD55E9FF561}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deikstra_1", "deikstra_1\deikstra_1.csproj", "{0F9B7785-3FB6-4444-89A6-2442CB11934A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F40D267E-295C-42E6-9230-7BD55E9FF561}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F40D267E-295C-42E6-9230-7BD55E9FF561}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F40D267E-295C-42E6-9230-7BD55E9FF561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9B7785-3FB6-4444-89A6-2442CB11934A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9B7785-3FB6-4444-89A6-2442CB11934A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9B7785-3FB6-4444-89A6-2442CB11934A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9B7785-3FB6-4444-89A6-2442CB11934A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
